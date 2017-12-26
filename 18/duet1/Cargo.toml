@@ -1,0 +1,7 @@
+[package]
+name = "duet1"
+version = "0.1.0"
+authors = ["Adam Jakubek <ajakubek@gmail.com>"]
+
+[dependencies]
+try_opt = "0.1"
